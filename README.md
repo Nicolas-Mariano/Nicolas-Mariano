@@ -67,8 +67,6 @@ Tenho 21 anos e sou da região do Alto Tietê, em São Paulo. Atualmente, estou 
 
 ---
 
-### 🎮 Contribuições
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-Mariano/Nicolas-Mariano/output/pacman-contribution-graph-dark.svg">
