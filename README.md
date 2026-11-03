@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Nicolas Mariano de Azevedo: full-stack, dados e tecnologia com impacto social" width="100%" />
+<img src=".github/assets/banner.svg" alt="Nicolas Mariano de Azevedo: full-stack, dados e tecnologia com impacto social" width="100%" />
 
 <p>
   <a href="mailto:azevedo.nicolas05@gmail.com"><img alt="E-mail" title="azevedo.nicolas05@gmail.com" src="https://img.shields.io/badge/E--mail-15233F?style=for-the-badge&logo=gmail&logoColor=F4BC5A" /></a>
