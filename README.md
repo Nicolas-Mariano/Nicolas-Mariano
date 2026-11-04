@@ -16,7 +16,7 @@ No PVIC, atuo como Gerente de Projetos e Pesquisador Líder e direciono a arquit
 
 ## Tecnologias
 
-<img src=".github/tecnologias.svg" alt="Tecnologias: Java no back-end; Python e PostgreSQL em dados; JavaScript e HTML5 na web; Docker e Git em infraestrutura" width="100%" />
+<img src=".github/tecnologias.svg" alt="Tecnologias: Java e Spring Boot no back-end; Dart e Flutter em mobile; JavaScript e HTML5 na web; Python, PostgreSQL e MySQL em dados; Docker e Git em infraestrutura" width="100%" />
 
 ## Estatísticas
 
