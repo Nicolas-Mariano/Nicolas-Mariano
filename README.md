@@ -25,6 +25,10 @@ No PVIC, atuo como Gerente de Projetos e Pesquisador Líder e direciono a arquit
   <img alt="Linguagens mais usadas" height="165" src="profile/top-langs.svg" />
 </p>
 
+<p align="center">
+  <img alt="Métricas do GitHub" src="github-metrics.svg" width="100%" />
+</p>
+
 ---
 
 Quer conversar sobre um projeto ou uma oportunidade? Escreva para [azevedo.nicolas05@gmail.com](mailto:azevedo.nicolas05@gmail.com).
