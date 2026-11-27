@@ -21,11 +21,6 @@ No PVIC, atuo como Gerente de Projetos e Pesquisador Líder e direciono a arquit
 ## Estatísticas
 
 <p align="center">
-  <img alt="Estatísticas do GitHub" height="165" src="profile/stats.svg" />
-  <img alt="Linguagens mais usadas" height="165" src="profile/top-langs.svg" />
-</p>
-
-<p align="center">
   <img alt="Métricas do GitHub" src="github-metrics.svg" width="100%" />
 </p>
 
